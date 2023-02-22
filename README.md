@@ -5,7 +5,7 @@ Use our cloud service <a href="https://docs.sysreptor.com/oscp-reporting-with-sy
 :heavy_dollar_sign: Free  
 :pencil: Write in markdown  
 ⚙️ Render your report to PDF  
-:shield: OSCP, OSEE, OSEP, OSWE, OSWP 
+:shield: OSCP, OSEE, OSEP, OSWE, OSWP  
 :rocket: Fully customizable  
 :tada: No need for Word  
 :ok_hand: No local software troubleshooting
