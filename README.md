@@ -1,12 +1,13 @@
 # Offensive Security Reporting
-Use our cloud service for free to write your Offensive Security OSCP, OSEE, OSEP, OSWE, OSWP reports.
+Use our cloud service <a src="https://docs.sysreptor.com/oscp-reporting-with-sysreptor/">SysReptor</a> for free to write your Offensive Security OSCP, OSEE, OSEP, OSWE, OSWP reports.
 
-* Free  
-* Write in markdown  
-* Render your report  
-* OSCP, OSEE, OSEP, OSWE, OSWP   
-* Fully customizable  
-* No need for Word  
-* No local software troubleshooting
+## Your Benefits
+:heavy_dollar_sign: Free  
+:pencil: Write in markdown  
+⚙️ Render your report  
+:shield: OSCP, OSEE, OSEP, OSWE, OSWP   
+:rocket: Fully customizable  
+:tada: No need for Word  
+:ok_hand: No local software troubleshooting
 
-## Creating an OSCP Exam Report
+## Your Offensive Security Report within minutes
