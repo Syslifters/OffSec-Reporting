@@ -52,3 +52,13 @@ Or Cloud.<br>
 <img width="300" alt="OSWP Exam Report" src="https://github.com/cmahrl/OSCP-Reporting/blob/main/OSWP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
 </p>
+
+## Available Offensive Security Templates:
+
+Exam acronym | Exam name                                         | Lab acronym | Lab name                                   | Course designation
+-------------|---------------------------------------------------|-------------|--------------------------------------------|-------------------
+**OSCP**     | Offensive Security Certified Professional         | PWK         | Penetration Testing with Kali Linux        | PEN-200
+**OSWP**     | Offensive Security Wireless Professional          | OSWA        | Offensive Security Wireless Attacks        | PEN-210
+**OSEP**     | Offensive Security Experienced Penetration Tester | ETBD        | Evasion Techniques and Breaching Defenses  | PEN-300
+**OSWE**     | Offensive Security Web Expert                     | AWAE        | Advanced Web Attacks and Exploitation      | WEB-300
+**OSEE**     | Offensive Security Exploitation Expert            | AWE         | Advanced Windows Exploitation              | EXP-401
