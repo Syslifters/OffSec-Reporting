@@ -26,6 +26,9 @@ Or Cloud.<br>
 :tada: No need for Word  
 :ok_hand: No local software troubleshooting
 
+Happy Reporting! :)  
+<b>Team Syslifters</b> 🦖  
+
 ## Your Offensive Security Report Within Minutes
 ![GIF](https://github.com/cmahrl/OSCP-Reporting/blob/main/oscp-reporting.gif)
 
