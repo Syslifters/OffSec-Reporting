@@ -53,7 +53,7 @@ Or Cloud.<br>
 </a>
 </p>
 
-## Available Offensive Security Templates:
+## Available Offensive Security Templates
 
 Exam acronym | Exam name                                         | Lab acronym | Lab name                                   | Course designation
 -------------|---------------------------------------------------|-------------|--------------------------------------------|-------------------
