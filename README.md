@@ -17,7 +17,7 @@ Or Cloud.<br>
 <br>
 <br>
 
-PS. you are missing a specific template or have any other requests?  
+P.S. you are missing a specific template or have any other requests?  
 Just let us know! Open an issue and we'll have a look and come back to you.
 
 Happy Reporting! :)  
