@@ -1,5 +1,5 @@
 # Offensive Security Reporting using SysReptor
-Use our cloud service SysReptor for free to write your Offensive Security OSCP, OSEE, OSEP, OSWE, OSWP reports.  
+Use our cloud service SysReptor for free to write your Offensive Security OSCP, OSEE, OSEP, OSWE, OSWP reports.
 
 <p align="center">
     <img width="100" src="https://github.com/cmahrl/OSCP-Reporting/blob/main/logo-invert.svg" alt="Logo SysReptor">
@@ -11,8 +11,8 @@ Render to PDF.<br>
 On-Premise.<br>
 Or Cloud.<br>
 :heart:<br>
-<br>
-<h3 align="center">:rocket: Sign Up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">Here</a></h3>
+<h3 align="center">:rocket: Sign up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">here</a></h3>
+<h3 align="center">:bulb: Have a look at our documentation <a class="md-button" href="https://docs.sysreptor.com/">here</a></h3>
 </p>
 <br>
 <br>
@@ -23,6 +23,8 @@ Just let us know! Open an issue and we'll have a look and come back to you.
 Happy Reporting! :)  
 <b>Team Syslifters</b> 🦖  
 <a href="https://syslifters.com">https://syslifters.com</a>
+<br>
+<br>
 
 ## Your Benefits
 :heavy_dollar_sign: Free  
