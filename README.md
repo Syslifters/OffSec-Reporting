@@ -66,7 +66,7 @@ Happy Reporting! :)
 </a>
 </p>
 
-## Available Offensive Security Templates
+## Offensive Security Abbreviations
 
 Exam acronym | Exam name                                         | Lab acronym | Lab name                                   | Course designation
 -------------|---------------------------------------------------|-------------|--------------------------------------------|-------------------
