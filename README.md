@@ -37,8 +37,12 @@ Happy Reporting! :)
 :tada: No need for Word  
 :ok_hand: No local software troubleshooting
 
+<br>
+
 ## Your Offensive Security Report Within Minutes
 ![GIF](https://github.com/cmahrl/OSCP-Reporting/blob/main/oscp-reporting.gif)
+
+<br>
 
 ## Offensive Security Report Templates
 <p float="left">
@@ -67,6 +71,8 @@ Happy Reporting! :)
 <img width="250" alt="OSWP Exam Report" src="https://github.com/cmahrl/OSCP-Reporting/blob/main/OSWP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
 </p>
+
+<br>
 
 ## Offensive Security Abbreviations
 
