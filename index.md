@@ -12,7 +12,7 @@ Design your report in HTML.<br>
 Render to PDF.<br>
 On-Premise.<br>
 Or Cloud.<br>
-:heart:<br>
+❤️<br>
 <h4 align="center">🚀 Sign up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">here</a></h4>
 <h4 align="center">💡 Have a look at our documentation <a class="md-button" href="https://docs.sysreptor.com/">here</a></h4>
 </p>
