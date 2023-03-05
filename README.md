@@ -13,8 +13,8 @@ Render to PDF.<br>
 On-Premise.<br>
 Or Cloud.<br>
 :heart:<br>
-<h4 align="center">:rocket: Sign up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">here</a></h4>
-<h4 align="center">:bulb: Have a look at our documentation <a class="md-button" href="https://docs.sysreptor.com/">here</a></h4>
+<h4 align="center">🚀 Sign up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">here</a></h4>
+<h4 align="center">💡 Have a look at our documentation <a class="md-button" href="https://docs.sysreptor.com/">here</a></h4>
 </p>
 <br>
 <br>
@@ -29,18 +29,18 @@ Happy Reporting! :)
 <br>
 
 ## Your Benefits
-:heavy_dollar_sign: Free  
-:pencil: Write in markdown  
+💲 Free  
+📝 Write in markdown  
 ⚙️ Render your report to PDF  
-:shield: OSCP, OSEE, OSEP, OSWE, OSWP  
-:rocket: Fully customizable  
-:tada: No need for Word  
-:ok_hand: No local software troubleshooting
+🛡️ OSCP, OSEE, OSEP, OSWE, OSWP  
+🚀 Fully customizable  
+🎉  No need for Word  
+👌  No local software troubleshooting
 
 <br>
 
 ## Your Offensive Security Report Within Minutes
-![GIF](https://github.com/cmahrl/OSCP-Reporting/blob/main/oscp-reporting.gif)
+![GIF](https://docs.sysreptor.com/images/oscp-reporting.gif)
 
 <br>
 
