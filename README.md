@@ -4,7 +4,7 @@ Use our pentest reporting tool SysReptor for free to write your Offensive Securi
 <br>
 
 <p align="center">
-    <a class="md-button" href="https://docs.sysreptor.com/"><img width="100" src="https://github.com/Syslifters/OSCP-Reporting/blob/main/logo-invert.svg" alt="Logo SysReptor"></a>
+    <a class="md-button" href="https://docs.sysreptor.com/"><img width="100" src="https://docs.sysreptor.com/images/logo-invert.svg" alt="Logo SysReptor"></a>
 </p>
 <p align="center">
 SysReptor makes Pentest Reporting easy.<br>
