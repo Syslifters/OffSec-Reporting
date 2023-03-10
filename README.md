@@ -43,7 +43,7 @@ Happy Reporting! :)
 <br>
 
 ## Your Offensive Security Report Within Minutes
-![GIF](https://docs.sysreptor.com/images/oscp-reporting.gif)
+![GIF](https://github.com/Syslifters/OSCP-Reporting/blob/main/oscp-reporting.gif)
 
 <br>
 
