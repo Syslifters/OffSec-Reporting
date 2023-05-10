@@ -47,7 +47,7 @@ Happy Reporting! :)
 
 <br>
 
-## Offensive Security Report Templates
+## Offensive Security Report Templates*
 <p float="left">
 <a href="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Demo.pdf">
 <img width="250" alt="OSCP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Demo-Preview.png" style="border:1px solid;">
@@ -74,6 +74,8 @@ Happy Reporting! :)
 <img width="250" alt="OSWP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
 </p>
+
+*The cover pages are based on [noraj's](https://twitter.com/noraj_rawsec) great [OSCP LaTeX templates](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown). The structure follows the official [OffSec](https://www.offsec.com/) reports (with kind permission by OffSec).
 
 <br>
 
