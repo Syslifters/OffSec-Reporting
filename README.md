@@ -1,9 +1,8 @@
 # Offensive Security Reporting using SysReptor
 Hello 👋 we are the Syslifters, the brainos behind SysReptor. SysReptor is a fully customisable, offensive security reporting tool designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click - in the cloud or on-premise!
 
-We have also prepared many report designs, such as Offensive Security Lab and Exam Report Templates (fully customizable ofc). Try it out and use SysReptor for free to write your Offensive Security OSCP, OSEE, OSEP, OSWE, OSWP reports. Feedback is very welcome! 🙌
+We have also prepared many report designs, such as OffSec Lab and Exam Report Templates (fully customizable ofc). Try it out and use SysReptor for free to write your OffSec OSCP, OSEE, OSEP, OSWE, OSWP reports. Feedback is very welcome! 🙌
 
-<br>
 <br>
 
 <p align="center">
@@ -12,18 +11,28 @@ We have also prepared many report designs, such as Offensive Security Lab and Ex
 <p align="center">
 SysReptor makes Pentest Reporting easy.<br>
 Design your report in HTML.<br>
+Write in Markdown.<br>
 Render to PDF.<br>
 On-Premise.<br>
 Or Cloud.<br>
 ❤️<br>
-<h4 align="center">🚀 Sign up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">here</a></h4>
-<h4 align="center">💡 Have a look at our documentation <a class="md-button" href="https://docs.sysreptor.com/">here</a></h4>
-<br>
-<br>
 </p>
-<h3 align="center">Certification done and now looking for a proper pentest reporting tool?</h3>
-<h4 align="center">🥧 Checkout SysReptor (Community / Professional) on Github <a class="md-button" href="https://github.com/Syslifters/sysreptor">here</a></h4>
+
+<h2 align="center">🚀 Sign up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">here</a></h2>
 <br>
+
+<h3>Prefer self-hosting?</h3>
+
+1. [Install](/setup/installation/) SysReptor 
+2. Import all OffSec Designs:
+
+```shell linenums="1"
+cd sysreptor/deploy
+url="https://docs.sysreptor.com/assets/offsec-designs.tar.gz"
+curl -s "$url" | docker compose exec --no-TTY app python3 manage.py importdemodata --type=design
+```
+
+<h4>💡 Have a look at our documentation <a class="md-button" href="https://docs.sysreptor.com/">here</a></h4>
 <br>
 
 P.S. you are missing a specific template, have feedback or any other requests?  
@@ -63,7 +72,8 @@ Happy Reporting! :)
 
 <a href="https://docs.sysreptor.com/assets/reports/OSEE-Exam-Report.pdf" target="_blank">
 <img width="250" alt="OSEE Exam Report" src="https://docs.sysreptor.com/assets/reports/OSEE-Exam-Report-Preview.png" style="border:1px solid;"></a>
-</p>
+
+    
 
 <p float="left">
 <a href="https://docs.sysreptor.com/assets/reports/OSEP-Exam-Report.pdf" target="_blank">
