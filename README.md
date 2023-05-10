@@ -23,7 +23,7 @@ Or Cloud.<br>
 
 <h3>Prefer self-hosting?</h3>
 
-1. [Install](/setup/installation/) SysReptor 
+1. [Install](https://docs.sysreptor.com/setup/installation/) SysReptor 
 2. Import all OffSec Designs:
 
 ```shell linenums="1"
