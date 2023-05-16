@@ -1,27 +1,53 @@
 # Offensive Security Reporting using SysReptor
-Hello 👋 we are the Syslifters, the brainos behind SysReptor. SysReptor is a fully customisable, offensive security reporting tool designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click - in the cloud or on-premise!
+<h1 align="center">
+    <br>
+    <a href="https://docs.sysreptor.com/"><img src="https://docs.sysreptor.com/images/logo-invert-with-text.png" alt="SysReptor"></a>
+</h1>
 
-We have also prepared many report designs, such as OffSec Lab and Exam Report Templates (fully customizable ofc). Try it out and use SysReptor for free to write your OffSec OSCP, OSEE, OSEP, OSWE, OSWP reports. Feedback is very welcome! 🙌
-
-<br>
+<h4 align="center">Easy and customisable pentest report creator based on simple web technologies.</h4>
 
 <p align="center">
-    <a class="md-button" href="https://docs.sysreptor.com/"><img width="100" src="https://docs.sysreptor.com/images/logo-invert.svg" alt="Logo SysReptor"></a>
+<a href="https://github.com/syslifters/sysreptor/">
+    <img src="https://img.shields.io/github/stars/Syslifters/sysreptor?color=yellow&style=flat-square">
+</a>
+<a href="https://github.com/syslifters/sysreptor/releases/latest">
+    <img src="https://img.shields.io/github/v/release/syslifters/sysreptor?color=green&style=flat-square">
+</a>
+<a href="https://github.com/syslifters/sysreptor/releases/latest">
+    <img src="https://img.shields.io/github/release-date/syslifters/sysreptor?color=blue&style=flat-square">
+</a>
+<a href="https://github.com/syslifters/sysreptor/releases/latest">
+    <img src="https://img.shields.io/github/repo-size/syslifters/sysreptor?color=red&style=flat-square">
+</a>
+<a href="https://www.linkedin.com/company/syslifters/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="https://twitter.com/intent/user?screen_name=sysreptor">
+    <img src="https://img.shields.io/twitter/follow/sysreptor?style=social">
+</a>
 </p>
+
 <p align="center">
-SysReptor makes Pentest Reporting easy.<br>
-Design your report in HTML.<br>
-Write in Markdown.<br>
-Render to PDF.<br>
-On-Premise.<br>
-Or Cloud.<br>
-❤️<br>
+  <a href="https://cloud.sysreptor.com/demo">Playground</a> •
+  <a href="https://github.com/Syslifters/sysreptor/discussions/categories/ideas">Ideas</a> •
+  <a href="https://github.com/Syslifters/sysreptor/discussions/categories/q-a">Questions</a> •
+  <a href="https://docs.sysreptor.com/">Documentation</a> •
+  <a href="https://docs.sysreptor.com/features-and-pricing/">Features and Pricing</a> •
+  <a href="https://docs.sysreptor.com/setup/installation/">Installation</a> •
+  <a href="https://cloud.sysreptor.com/order/">Buy SysReptor</a>
 </p>
+
+---
+
+Hello 👋 we are the [Syslifters](https://www.syslifters.com/en/home), the brainos behind SysReptor. SysReptor is a fully customisable, offensive security reporting tool designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click - in the cloud or on-premise!
+
+## OffSec Reporting
+This is our dedicated [OffSec](https://www.offsec.com/) reporting repository that showcases various type of OffSec report designs created with SysReptor. Our actual SysReptor repository can be found on Github here: [SysReptor](https://github.com/Syslifters/sysreptor). We have designed various OffSec Lab and Exam Report Templates (fully customizable ofc) that can be seen below. Try it out and use SysReptor for free to write your OffSec OSCP, OSEE, OSEP, OSWE, OSWP reports. Feedback is very welcome! ❤️
 
 <h2 align="center">🚀 Sign up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">here</a></h2>
 <br>
 
-<h3>Prefer self-hosting?</h3>
+### Prefer self-hosting?
 
 1. [Install](https://docs.sysreptor.com/setup/installation/) SysReptor 
 2. Import all OffSec Designs:
