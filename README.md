@@ -68,7 +68,6 @@ Happy Reporting! :)
 <b>Team Syslifters</b> 🦖  
 <a href="https://syslifters.com">https://syslifters.com</a>
 <br>
-<br>
 
 ## Your Benefits
 💲 Free  
@@ -79,12 +78,10 @@ Happy Reporting! :)
 🎉  No need for Word  
 👌  No local software troubleshooting
 
-<br>
 
 ## Your Offensive Security Report Within Minutes
 ![GIF](https://github.com/Syslifters/OSCP-Reporting/blob/main/oscp-reporting.gif)
 
-<br>
 
 ## Offensive Security Report Templates*
 <p float="left">
@@ -116,8 +113,6 @@ Happy Reporting! :)
 </p>
 
 *The cover pages are based on [noraj's](https://twitter.com/noraj_rawsec) great [OSCP LaTeX templates](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown). The structure follows the official [OffSec](https://www.offsec.com/) reports (with kind permission by OffSec).
-
-<br>
 
 ## Offensive Security Abbreviations
 
