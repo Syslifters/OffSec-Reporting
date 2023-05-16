@@ -1,7 +1,7 @@
 # Offensive Security Reporting using SysReptor
 <h1 align="center">
     <br>
-    <a href="https://docs.sysreptor.com/"><img src="https://docs.sysreptor.com/images/logo-invert-with-text.png" alt="SysReptor"></a>
+    <a href="https://docs.sysreptor.com/"><img src="logo.png" alt="SysReptor"></a>
 </h1>
 
 <h4 align="center">Easy and customisable pentest report creator based on simple web technologies.</h4>
