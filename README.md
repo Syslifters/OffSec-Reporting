@@ -87,7 +87,7 @@ Happy Reporting! :)
 ### Penetration Testing
 <p float="left">
 <a href="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSCP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Demo-Preview.png" style="border:1px solid;">
+<img width="250" alt="OSCP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
 
 <a href="https://docs.sysreptor.com/assets/reports/OSCP-Lab-Report.pdf" target="_blank">
