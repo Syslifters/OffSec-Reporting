@@ -42,7 +42,7 @@
 Hello 👋 we are the [Syslifters](https://www.syslifters.com/en/home), the brainos behind SysReptor. SysReptor is a fully customisable, offensive security reporting tool designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click - in the cloud or on-premise!
 
 ## OffSec Reporting
-This is our dedicated [OffSec](https://www.offsec.com/) reporting repository that showcases various types of OffSec report designs created with SysReptor. Our actual SysReptor repository can be found on Github here: [SysReptor](https://github.com/Syslifters/sysreptor). We have designed various OffSec Lab and Exam Report Templates (fully customizable ofc) that can be seen below. Try it out and use SysReptor for free to write your OffSec OSCP, OSEE, OSEP, OSWE, OSWP reports. Feedback is very welcome! ❤️
+This is our dedicated [OffSec](https://www.offsec.com/) reporting repository that showcases various types of OffSec report designs created with SysReptor. Our actual SysReptor repository can be found on Github here: [SysReptor](https://github.com/Syslifters/sysreptor). We have designed various OffSec Lab and Exam Report Templates (fully customizable ofc) that can be seen below. Try it out and use SysReptor for free to write your OffSec OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA reports. Feedback is very welcome! ❤️
 
 <h2 align="center">🚀 Sign up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">here</a></h2>
 <br>
@@ -73,7 +73,7 @@ Happy Reporting! :)
 💲 Free  
 📝 Write in markdown  
 ⚙️ Render your report to PDF  
-🛡️ OSCP, OSEE, OSEP, OSWE, OSWP  
+🛡️ OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA  
 🚀 Fully customizable  
 🎉  No need for Word  
 👌  No local software troubleshooting
@@ -84,32 +84,52 @@ Happy Reporting! :)
 
 
 ## Offensive Security Report Templates*
+### Penetration Testing
 <p float="left">
 <a href="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Demo.pdf">
-<img width="250" alt="OSCP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Demo-Preview.png" style="border:1px solid;">
+<img width="250" alt="OSCP Exam Report" src="OSCP-Exam-Report-Demo-Preview.png" style="border:1px solid;">
 </a>
 
 <a href="https://docs.sysreptor.com/assets/reports/OSCP-Lab-Report.pdf" target="_blank">
-<img width="250" alt="OSCP Lab Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Lab-Report-Preview.png" style="border:1px solid;">
+<img width="250" alt="OSCP Lab Report" src="OSCP-Lab-Report-Preview.png" style="border:1px solid;">
 </a>
 
-<a href="https://docs.sysreptor.com/assets/reports/OSEE-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSEE Exam Report" src="https://docs.sysreptor.com/assets/reports/OSEE-Exam-Report-Preview.png" style="border:1px solid;"></a>
-
+<a href="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report-Demo.pdf">
+<img width="250" alt="OSWP Exam Report" src="OSWP-Exam-Report-Preview.png" style="border:1px solid;">
+</a>
     
-
-<p float="left">
 <a href="https://docs.sysreptor.com/assets/reports/OSEP-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSEP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSEP-Exam-Report-Preview.png" style="border:1px solid;">
+<img width="250" alt="OSEP Exam Report" src="OSEP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
-
+  
+### Web Application
+<p float="left">
+<a href="https://docs.sysreptor.com/assets/reports/OSWA-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OSWA Exam Report" src="OSWA-Exam-Report-Preview.png" style="border:1px solid;">
+</a>
+    
 <a href="https://docs.sysreptor.com/assets/reports/OSWE-Exam-Report.pdf" target="_blank">
 <img width="250" alt="OSWE Exam Report" src="https://docs.sysreptor.com/assets/reports/OSWE-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
 
-<a href="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSWP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report-Preview.png" style="border:1px solid;">
-</a>
+### Exploit Development
+<p float="left">
+    
+<a href="https://docs.sysreptor.com/assets/reports/OSED-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OSED Exam Report" src="OSED-Exam-Report-Preview.png" style="border:1px solid;"></a>
+    
+<a href="https://docs.sysreptor.com/assets/reports/OSMR-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OSMR Exam Report" src="OSMR-Exam-Report-Preview.png" style="border:1px solid;"></a>
+    
+<a href="https://docs.sysreptor.com/assets/reports/OSEE-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OSEE Exam Report" src="OSEE-Exam-Report-Preview.png" style="border:1px solid;"></a>
+
+### Security Operations
+<p float="left">
+    
+<a href="https://docs.sysreptor.com/assets/reports/OSDA-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OSDA Exam Report" src="OSDA-Exam-Report-Preview.png" style="border:1px solid;"></a>
+    
 </p>
 
 *The cover pages are based on [noraj's](https://twitter.com/noraj_rawsec) great [OSCP LaTeX templates](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown). The structure follows the official [OffSec](https://www.offsec.com/) reports (with kind permission by OffSec).
