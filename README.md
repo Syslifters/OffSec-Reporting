@@ -87,25 +87,25 @@ Happy Reporting! :)
 ### Penetration Testing
 <p float="left">
 <a href="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report.pdf">
-<img width="250" alt="OSCP Exam Report" src="OSCP-Exam-Report-Preview.png" style="border:1px solid;">
+<img width="250" alt="OSCP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
 
 <a href="https://docs.sysreptor.com/assets/reports/OSCP-Lab-Report.pdf" target="_blank">
-<img width="250" alt="OSCP Lab Report" src="OSCP-Lab-Report-Preview.png" style="border:1px solid;">
+<img width="250" alt="OSCP Lab Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Lab-Report-Preview.png" style="border:1px solid;">
 </a>
 
 <a href="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report.pdf">
-<img width="250" alt="OSWP Exam Report" src="OSWP-Exam-Report-Preview.png" style="border:1px solid;">
+<img width="250" alt="OSWP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
     
 <a href="https://docs.sysreptor.com/assets/reports/OSEP-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSEP Exam Report" src="OSEP-Exam-Report-Preview.png" style="border:1px solid;">
+<img width="250" alt="OSEP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSEP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
   
 ### Web Application
 <p float="left">
 <a href="https://docs.sysreptor.com/assets/reports/OSWA-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSWA Exam Report" src="OSWA-Exam-Report-Preview.png" style="border:1px solid;">
+<img width="250" alt="OSWA Exam Report" src="https://docs.sysreptor.com/assets/reports/OSWA-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
     
 <a href="https://docs.sysreptor.com/assets/reports/OSWE-Exam-Report.pdf" target="_blank">
@@ -116,19 +116,19 @@ Happy Reporting! :)
 <p float="left">
     
 <a href="https://docs.sysreptor.com/assets/reports/OSED-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSED Exam Report" src="OSED-Exam-Report-Preview.png" style="border:1px solid;"></a>
+<img width="250" alt="OSED Exam Report" src="https://docs.sysreptor.com/assets/reports/OSED-Exam-Report-Preview.png" style="border:1px solid;"></a>
     
 <a href="https://docs.sysreptor.com/assets/reports/OSMR-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSMR Exam Report" src="OSMR-Exam-Report-Preview.png" style="border:1px solid;"></a>
+<img width="250" alt="OSMR Exam Report" src="https://docs.sysreptor.com/assets/reports/OSMR-Exam-Report-Preview.png" style="border:1px solid;"></a>
     
 <a href="https://docs.sysreptor.com/assets/reports/OSEE-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSEE Exam Report" src="OSEE-Exam-Report-Preview.png" style="border:1px solid;"></a>
+<img width="250" alt="OSEE Exam Report" src="https://docs.sysreptor.com/assets/reports/OSEE-Exam-Report-Preview.png" style="border:1px solid;"></a>
 
 ### Security Operations
 <p float="left">
     
 <a href="https://docs.sysreptor.com/assets/reports/OSDA-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSDA Exam Report" src="OSDA-Exam-Report-Preview.png" style="border:1px solid;"></a>
+<img width="250" alt="OSDA Exam Report" src="https://docs.sysreptor.com/assets/reports/OSDA-Exam-Report-Preview.png" style="border:1px solid;"></a>
     
 </p>
 
