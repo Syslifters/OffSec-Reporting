@@ -86,7 +86,7 @@ Happy Reporting! :)
 ## Offensive Security Report Templates*
 ### Penetration Testing
 <p float="left">
-<a href="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report.pdf">
+<a href="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report.pdf" target="_blank">
 <img width="250" alt="OSCP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Demo-Preview.png" style="border:1px solid;">
 </a>
 
@@ -94,7 +94,7 @@ Happy Reporting! :)
 <img width="250" alt="OSCP Lab Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Lab-Report-Preview.png" style="border:1px solid;">
 </a>
 
-<a href="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report.pdf">
+<a href="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report.pdf" target="_blank">
 <img width="250" alt="OSWP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
     
