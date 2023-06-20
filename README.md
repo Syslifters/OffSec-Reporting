@@ -44,7 +44,7 @@ Hello 👋 we are the [Syslifters](https://www.syslifters.com/en/home), the brai
 ## OffSec Reporting
 This is our dedicated [OffSec](https://www.offsec.com/) reporting repository that showcases various types of OffSec report designs created with SysReptor. Our actual SysReptor repository can be found on Github here: [SysReptor](https://github.com/Syslifters/sysreptor). We have designed various OffSec Lab and Exam Report Templates (fully customizable ofc) that can be seen below. Try it out and use SysReptor for free to write your OffSec OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA reports. Feedback is very welcome! ❤️
 
-<h2 align="center">🚀 Sign up <a class="md-button" href="https://cloud.sysreptor.com/oscp/signup/">here</a></h2>
+<h2 align="center">🚀 Sign up <a class="md-button" href="https://oscp.sysreptor.com/oscp/signup/">here</a></h2>
 <br>
 
 ### Prefer self-hosting?
