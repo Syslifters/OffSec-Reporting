@@ -39,7 +39,7 @@
 
 ---
 
-Hello 👋 we are the [Syslifters](https://www.syslifters.com/en/home), the brainos behind SysReptor. SysReptor is a fully customisable, offensive security reporting tool designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click - in the cloud or on-premise!
+Hello 👋 we are the [Syslifters](https://www.syslifters.com/en/home), the brainos behind SysReptor. SysReptor is a fully customisable, offensive security reporting tool designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click - in the cloud or self-hosted!
 
 ## OffSec Reporting
 This is our dedicated [OffSec](https://www.offsec.com/) reporting repository that showcases various types of OffSec report designs created with SysReptor. Our actual SysReptor repository can be found on Github here: [SysReptor](https://github.com/Syslifters/sysreptor). We have designed various OffSec Lab and Exam Report Templates (fully customizable ofc) that can be seen below. Try it out and use SysReptor for free to write your OffSec OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA reports. Feedback is very welcome! ❤️
