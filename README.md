@@ -34,6 +34,7 @@ This is our [OffSec](https://www.offsec.com/) reporting repository showcasing Of
 Feedback is very welcome! ❤️
 
 <h2 align="center">🚀 Sign up <a class="md-button" href="https://oscp.sysreptor.com/oscp/signup/">here</a> (it's free)</h2>
+Already have an account? [Login here.](https://labs.sysre.pt)
 <br>
 
 ### Prefer self-hosting (also free)?
@@ -47,7 +48,7 @@ url="https://docs.sysreptor.com/assets/offsec-designs.tar.gz"
 curl -s "$url" | docker compose exec --no-TTY app python3 manage.py importdemodata --type=design
 ```
 
-<h4>💡 Have a look at our documentation <a class="md-button" href="https://docs.sysreptor.com/">here</a></h4>
+<h4>💡 Have a look at our <a class="md-button" href="https://docs.sysreptor.com/">documentation</a>.</h4>
 <br>
 
 PS: Are you missing a template, have feedback or any other questions?  
