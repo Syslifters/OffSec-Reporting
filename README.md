@@ -1,10 +1,8 @@
-# Offensive Security Reporting using SysReptor
+# OffSec Reporting using SysReptor
 <h1 align="center">
     <br>
-    <a href="https://docs.sysreptor.com/"><img src="logo.png" alt="SysReptor"></a>
+    <a href="https://docs.sysreptor.com/"><img src="/assets/logo.png" alt="SysReptor"></a>
 </h1>
-
-<h4 align="center">Easy and customisable pentest report creator based on simple web technologies.</h4>
 
 <p align="center">
 <a href="https://github.com/syslifters/sysreptor/">
@@ -27,27 +25,18 @@
 </a>
 </p>
 
-<p align="center">
-  <a href="https://cloud.sysreptor.com/demo">Playground</a> •
-  <a href="https://github.com/Syslifters/sysreptor/discussions/categories/ideas">Ideas</a> •
-  <a href="https://github.com/Syslifters/sysreptor/discussions/categories/q-a">Questions</a> •
-  <a href="https://docs.sysreptor.com/">Documentation</a> •
-  <a href="https://docs.sysreptor.com/features-and-pricing/">Features and Pricing</a> •
-  <a href="https://docs.sysreptor.com/setup/installation/">Installation</a> •
-  <a href="https://cloud.sysreptor.com/order/">Buy SysReptor</a>
-</p>
+<h4 align="center">Pentest Reporting made easy: Design in HTML, Write in Markdown, Render to PDF. Self-hosted or Cloud.</h4>
 
 ---
 
-Hello 👋 we are the [Syslifters](https://www.syslifters.com/en/home), the brainos behind SysReptor. SysReptor is a fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click - in the cloud or self-hosted!
-
 ## OffSec Reporting
-This is our dedicated [OffSec](https://www.offsec.com/) reporting repository that showcases various types of OffSec report designs created with SysReptor. Our actual SysReptor repository can be found on Github here: [SysReptor](https://github.com/Syslifters/sysreptor). We have designed various OffSec Lab and Exam Report Templates (fully customizable ofc) that can be seen below. Try it out and use SysReptor for free to write your OffSec OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA reports. Feedback is very welcome! ❤️
+This is our [OffSec](https://www.offsec.com/) reporting repository showcasing OffSec reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your OffSec OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA reports.  
+Feedback is very welcome! ❤️
 
-<h2 align="center">🚀 Sign up <a class="md-button" href="https://oscp.sysreptor.com/oscp/signup/">here</a></h2>
+<h2 align="center">🚀 Sign up <a class="md-button" href="https://oscp.sysreptor.com/oscp/signup/">here</a> (it's free)</h2>
 <br>
 
-### Prefer self-hosting?
+### Prefer self-hosting (also free)?
 
 1. [Install](https://docs.sysreptor.com/setup/installation/) SysReptor 
 2. Import all OffSec Designs:
@@ -61,26 +50,23 @@ curl -s "$url" | docker compose exec --no-TTY app python3 manage.py importdemoda
 <h4>💡 Have a look at our documentation <a class="md-button" href="https://docs.sysreptor.com/">here</a></h4>
 <br>
 
-P.S. you are missing a specific template, have feedback or any other requests?  
-Just let us know! Open an issue or mail us and we'll have a look and come back to you.
+PS: Are you missing a template, have feedback or any other questions?  
+Let us know! Open an issue or [mail us](https://docs.sysreptor.com/contact-us/) and are happy to help you.
 
-Happy Reporting! :)  
-<b>Team Syslifters</b> 🦖  
-<a href="https://syslifters.com">https://syslifters.com</a>
-<br>
+Happy Reporting! 🦖  
+
 
 ## Your Benefits
 💲 Free  
 📝 Write in markdown  
-⚙️ Render your report to PDF  
+⚙️ Render to PDF  
 🛡️ OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA  
 🚀 Fully customizable  
-🎉  No need for Word  
-👌  No local software troubleshooting
+👌 No local software troubleshooting
 
 
-## Your Offensive Security Report Within Minutes
-![GIF](https://github.com/Syslifters/OSCP-Reporting/blob/main/oscp-reporting.gif)
+## Your OffSec Report Within Minutes
+![GIF](https://github.com/Syslifters/OSCP-Reporting/blob/main/assets/oscp-reporting.gif)
 
 
 ## Offensive Security Report Templates*
@@ -128,7 +114,7 @@ Happy Reporting! :)
 <p float="left">
     
 <a href="https://docs.sysreptor.com/assets/reports/OSDA-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSDA Exam Report" src="https://docs.sysreptor.com/assets/reports/OSDA-Exam-Report-Preview.png" style="border:1px solid;"></a>
+<img width="250" alt="OSDA Exam Report" src="https://docs.sysreptor.com/assets/reports/assets/OSDA-Exam-Report-Preview.png" style="border:1px solid;"></a>
     
 </p>
 
@@ -147,3 +133,5 @@ Exam acronym | Exam name                                         | Lab name     
 **OSEE**     | Offensive Security Exploitation Expert            | AWE         | Advanced Windows Exploitation              | EXP-401
 **OSDA**     | Offensive Security Defense Analyst                | SODA        | Security Operations and Defensive Analysis | SOC-200
 
+<br>
+<a href="https://syslifters.com">https://syslifters.com</a>
