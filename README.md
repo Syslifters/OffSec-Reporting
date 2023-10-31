@@ -68,7 +68,7 @@ Happy Reporting! 🦖
 
 
 ## Your OffSec Report Within Minutes
-![GIF](https://github.com/Syslifters/OSCP-Reporting/blob/main/assets/oscp-reporting.gif)
+![GIF](https://docs.sysreptor.com/images/oscp-reporting.gif)
 
 
 ## Offensive Security Report Templates*
@@ -116,7 +116,7 @@ Happy Reporting! 🦖
 <p float="left">
     
 <a href="https://docs.sysreptor.com/assets/reports/OSDA-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSDA Exam Report" src="https://docs.sysreptor.com/assets/reports/assets/OSDA-Exam-Report-Preview.png" style="border:1px solid;"></a>
+<img width="250" alt="OSDA Exam Report" src="https://docs.sysreptor.com/assets/reports/OSDA-Exam-Report-Preview.png" style="border:1px solid;"></a>
     
 </p>
 
