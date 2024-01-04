@@ -137,5 +137,6 @@ Exam acronym | Exam name                                         | Lab name     
 **OSEE**     | Offensive Security Exploitation Expert            | AWE         | Advanced Windows Exploitation              | EXP-401
 **OSDA**     | Offensive Security Defense Analyst                | SODA        | Security Operations and Defensive Analysis | SOC-200
 
-<br>
-<a href="https://syslifters.com">https://syslifters.com</a>
+<h1 align="center">
+    <a href="https://docs.sysreptor.com/"><img src="/assets/Tower_SysReptor.svg" width="100%" alt="SysReptor"></a>
+</h1>
