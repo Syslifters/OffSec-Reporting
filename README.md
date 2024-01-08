@@ -1,7 +1,6 @@
 # OffSec Reporting using SysReptor
 <h1 align="center">
-    <br>
-    <a href="https://docs.sysreptor.com/"><img src="/assets/logo.png" alt="SysReptor"></a>
+    <a href="https://docs.sysreptor.com/"><img src="/assets/Banner-SysReptor-OffSec.svg" width="100%" alt="SysReptor"></a>
 </h1>
 
 <p align="center">
@@ -33,6 +32,9 @@
 This is our [OffSec](https://www.offsec.com/) reporting repository showcasing OffSec reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your OffSec OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA reports.  
 Feedback is very welcome! ❤️
 
+<h3 align="center">
+    <a href="https://oscp.sysreptor.com/oscp/signup"><img src="/assets/Reptor_Schild_Signup.svg" width="15%" alt="Signup"></a>
+</h3>
 <h2 align="center">🚀 Sign up <a class="md-button" href="https://oscp.sysreptor.com/oscp/signup/">here</a> (it's free)</h2>
 
 Already have an account? [Login here.](https://labs.sysre.pt)
@@ -135,5 +137,6 @@ Exam acronym | Exam name                                         | Lab name     
 **OSEE**     | Offensive Security Exploitation Expert            | AWE         | Advanced Windows Exploitation              | EXP-401
 **OSDA**     | Offensive Security Defense Analyst                | SODA        | Security Operations and Defensive Analysis | SOC-200
 
-<br>
-<a href="https://syslifters.com">https://syslifters.com</a>
+<h1 align="center">
+    <a href="https://docs.sysreptor.com/"><img src="/assets/Tower_SysReptor.svg" width="100%" alt="SysReptor"></a>
+</h1>
