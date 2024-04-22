@@ -1,6 +1,6 @@
 # OffSec Reporting using SysReptor
 <h1 align="center">
-    <a href="https://docs.sysreptor.com/"><img src="/assets/Banner-SysReptor-OffSec1.svg" width="100%" alt="SysReptor"></a>
+    <a href="https://docs.sysreptor.com/"><img src="/assets/Banner-SysReptor-OffSec.svg" width="100%" alt="SysReptor"></a>
 </h1>
 
 <p align="center">
