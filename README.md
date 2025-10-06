@@ -71,7 +71,7 @@ Missing a template or have questions? Open an [issue or contact us](https://docs
 
 
 ## Your OffSec Report Within Minutes
-![GIF](https://docs.sysreptor.com/images/offsec-reporting.gif)
+![GIF](https://docs.sysreptor.com/images/oscp-reporting.gif)
 
 ## Offensive Security Report Templates
 ### Penetration Testing
