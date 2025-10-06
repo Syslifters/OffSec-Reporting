@@ -24,13 +24,18 @@
 </a>
 </p>
 
-<h4 align="center">Pentest Reporting made easy: Design in HTML, Write in Markdown, Render to PDF. Self-hosted or Cloud.</h4>
+<h4 align="center">An easy and customizable pentest reporting platform designed to simplify pentest report creation for security professionals.
+</h4>
 
 ---
 
 ## OffSec Reporting
-This is our [OffSec](https://www.offsec.com/) reporting repository showcasing OffSec reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your OffSec OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH reports.  
-Feedback is very welcome! ❤️
+This repository showcases [OffSec](https://www.offsec.com/) report templates built with [SysReptor](https://github.com/Syslifters/sysreptor), a fully customizable pentest reporting platform. 
+
+Supported certifications:  
+**OSCP+**, **OSEP**, **OSWP**, **OSWA**, **OSWE**, **OSED**, **OSMR**, **OSEE**, **OSDA**, **OSIR**, **OSTH**  
+
+Focus on hacking, not the formatting. Best of luck with your OffSec journey! ❤️
 
 <h3 align="center">
     <a href="https://offsec.sysreptor.com/offsec/signup"><img src="/assets/Reptor_Schild_Signup.svg" width="15%" alt="Signup"></a>
@@ -54,11 +59,7 @@ curl -s "$url" | docker compose exec --no-TTY app python3 manage.py importdemoda
 <h4>💡 Have a look at our <a class="md-button" href="https://docs.sysreptor.com/">documentation</a>.</h4>
 <br>
 
-PS: Are you missing a template, have feedback or any other questions?  
-Let us know! Open an issue or [mail us](https://docs.sysreptor.com/contact-us/) and are happy to help you.
-
-Happy Reporting! 🦖  
-
+Missing a template or have questions? Open an [issue or contact us](https://docs.sysreptor.com/contact-us/). We're happy to help.
 
 ## Your Benefits
 💲 Free  
@@ -71,7 +72,6 @@ Happy Reporting! 🦖
 
 ## Your OffSec Report Within Minutes
 ![GIF](https://docs.sysreptor.com/images/offsec-reporting.gif)
-
 
 ## Offensive Security Report Templates
 ### Penetration Testing
