@@ -29,13 +29,13 @@
 ---
 
 ## OffSec Reporting
-This is our [OffSec](https://www.offsec.com/) reporting repository showcasing OffSec reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your OffSec OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA reports.  
+This is our [OffSec](https://www.offsec.com/) reporting repository showcasing OffSec reports created with [SysReptor](https://github.com/Syslifters/sysreptor). Write your OffSec OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH reports.  
 Feedback is very welcome! ❤️
 
 <h3 align="center">
-    <a href="https://oscp.sysreptor.com/oscp/signup"><img src="/assets/Reptor_Schild_Signup.svg" width="15%" alt="Signup"></a>
+    <a href="https://offsec.sysreptor.com/offsec/signup"><img src="/assets/Reptor_Schild_Signup.svg" width="15%" alt="Signup"></a>
 </h3>
-<h2 align="center">🚀 Sign up <a class="md-button" href="https://oscp.sysreptor.com/oscp/signup/">here</a> (it's free)</h2>
+<h2 align="center">🚀 Sign up <a class="md-button" href="https://offsec.sysreptor.com/offsec/signup/">here</a> (it's free)</h2>
 
 Already have an account? [Login here.](https://labs.sysre.pt)
 <br>
@@ -64,78 +64,82 @@ Happy Reporting! 🦖
 💲 Free  
 📝 Write in markdown  
 ⚙️ Render to PDF  
-🛡️ OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA  
+🛡️ OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH  
 🚀 Fully customizable  
 👌 No local software troubleshooting
 
 
 ## Your OffSec Report Within Minutes
-![GIF](https://docs.sysreptor.com/images/oscp-reporting.gif)
+![GIF](https://docs.sysreptor.com/images/offsec-reporting.gif)
 
 
-## Offensive Security Report Templates*
+## Offensive Security Report Templates
 ### Penetration Testing
 <p float="left">
-<a href="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSCP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Exam-Report-Preview.png" style="border:1px solid;">
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSCP-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSCP+ Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSCP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
 
-<a href="https://docs.sysreptor.com/assets/reports/OSCP-Lab-Report.pdf" target="_blank">
-<img width="250" alt="OSCP Lab Report" src="https://docs.sysreptor.com/assets/reports/OSCP-Lab-Report-Preview.png" style="border:1px solid;">
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSWP-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSWP Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSWP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
 
-<a href="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSWP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSWP-Exam-Report-Preview.png" style="border:1px solid;">
-</a>
-    
-<a href="https://docs.sysreptor.com/assets/reports/OSEP-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSEP Exam Report" src="https://docs.sysreptor.com/assets/reports/OSEP-Exam-Report-Preview.png" style="border:1px solid;">
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSEP-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSEP Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSEP-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
   
-### Web Application
+### Web Application Security
 <p float="left">
-<a href="https://docs.sysreptor.com/assets/reports/OSWA-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSWA Exam Report" src="https://docs.sysreptor.com/assets/reports/OSWA-Exam-Report-Preview.png" style="border:1px solid;">
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSWA-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSWA Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSWA-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
-    
-<a href="https://docs.sysreptor.com/assets/reports/OSWE-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSWE Exam Report" src="https://docs.sysreptor.com/assets/reports/OSWE-Exam-Report-Preview.png" style="border:1px solid;">
+
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSWE-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSWE Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSWE-Exam-Report-Preview.png" style="border:1px solid;">
 </a>
 
 ### Exploit Development
 <p float="left">
     
-<a href="https://docs.sysreptor.com/assets/reports/OSED-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSED Exam Report" src="https://docs.sysreptor.com/assets/reports/OSED-Exam-Report-Preview.png" style="border:1px solid;"></a>
-    
-<a href="https://docs.sysreptor.com/assets/reports/OSMR-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSMR Exam Report" src="https://docs.sysreptor.com/assets/reports/OSMR-Exam-Report-Preview.png" style="border:1px solid;"></a>
-    
-<a href="https://docs.sysreptor.com/assets/reports/OSEE-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSEE Exam Report" src="https://docs.sysreptor.com/assets/reports/OSEE-Exam-Report-Preview.png" style="border:1px solid;"></a>
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSED-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSED Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSED-Exam-Report-Preview.png" style="border:1px solid;"></a>
 
-### Security Operations
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSMR-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSMR Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSMR-Exam-Report-Preview.png" style="border:1px solid;"></a>
+
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSEE-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSEE Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSEE-Exam-Report-Preview.png" style="border:1px solid;"></a>
+
+### Defensive Security
 <p float="left">
-    
-<a href="https://docs.sysreptor.com/assets/reports/OSDA-Exam-Report.pdf" target="_blank">
-<img width="250" alt="OSDA Exam Report" src="https://docs.sysreptor.com/assets/reports/OSDA-Exam-Report-Preview.png" style="border:1px solid;"></a>
-    
+
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSDA-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSDA Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSDA-Exam-Report-Preview.png" style="border:1px solid;"></a>
+
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSIR-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSIR Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSIR-Exam-Report-Preview.png" style="border:1px solid;"></a>
+
+<a href="https://docs.sysreptor.com/assets/reports/OffSec-OSTH-Exam-Report.pdf" target="_blank">
+<img width="250" alt="OffSec OSTH Exam Report" src="https://docs.sysreptor.com/assets/reports/OffSec-OSTH-Exam-Report-Preview.png" style="border:1px solid;"></a>
+
 </p>
 
-*The cover pages are based on [noraj's](https://twitter.com/noraj_rawsec) great [OSCP LaTeX templates](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown). The structure follows the official [OffSec](https://www.offsec.com/) reports (with kind permission by OffSec).
+The structure follows the official [OffSec](https://www.offsec.com/) reports (with kind permission by OffSec).
 
 ## Offensive Security Abbreviations
-Exam acronym | Exam name                                         | Lab name                                   | Course designation
--------------|---------------------------------------------------|--------------------------------------------|-------------------
-**OSCP**     | Offensive Security Certified Professional         | PWK         | Penetration Testing with Kali Linux        | PEN-200
-**OSWP**     | Offensive Security Wireless Professional          | WNA         | Offensive Security Wireless Attacks        | PEN-210
-**OSEP**     | Offensive Security Experienced Penetration Tester | ETBD        | Evasion Techniques and Breaching Defenses  | PEN-300
-**OSWA**     | Offensive Security Web Assessor                   | WAKL        | Web Attacks with Kali Linux                | WEB-200
-**OSWE**     | Offensive Security Web Expert                     | AWAE        | Advanced Web Attacks and Exploitation      | WEB-300
-**OSED**     | Offensive Security Exploit Developer              | WUMED       | Windows User Mode Exploit Development      | EXP-301
-**OSMR**     | Offensive Security macOS Researcher               | MCB         | macOS Control Bypasses                     | EXP-312
-**OSEE**     | Offensive Security Exploitation Expert            | AWE         | Advanced Windows Exploitation              | EXP-401
-**OSDA**     | Offensive Security Defense Analyst                | SODA        | Security Operations and Defensive Analysis | SOC-200
+Exam acronym | Exam name                                         | Lab name | Course name                                | Course designation
+-------------|---------------------------------------------------|----------|--------------------------------------------|-------------------
+**OSCP+**    | Offensive Security Certified Professional         | PWK      | Penetration Testing with Kali Linux        | PEN-200
+**OSWP**     | Offensive Security Wireless Professional          | WiFu     | Offensive Security Wireless Attacks        | PEN-210
+**OSEP**     | Offensive Security Experienced Penetration Tester | ETBD     | Evasion Techniques and Breaching Defenses  | PEN-300
+**OSWA**     | Offensive Security Web Assessor                   | WAKL     | Web Attacks with Kali Linux                | WEB-200
+**OSWE**     | Offensive Security Web Expert                     | AWAE     | Advanced Web Attacks and Exploitation      | WEB-300
+**OSED**     | Offensive Security Exploit Developer              | WUMED    | Windows User Mode Exploit Development      | EXP-301
+**OSMR**     | Offensive Security macOS Researcher               | OSMR     | macOS Control Bypasses                     | EXP-312
+**OSEE**     | Offensive Security Exploitation Expert            | AWE      | Advanced Windows Exploitation              | EXP-401
+**OSDA**     | Offensive Security Defense Analyst                | OSDA     | Security Operations and Defensive Analysis | SOC-200
+**OSIR**     | Offensive Security Incident Responder             | OSIR     | Foundational Incident Response             | IR-200
+**OSTH**     | Offensive Security Threat Hunter                  | OSTH     | Foundational Threat Hunting                | TH-200
 
 <h1 align="center">
     <a href="https://docs.sysreptor.com/"><img src="/assets/Tower_SysReptor.svg" width="100%" alt="SysReptor"></a>
