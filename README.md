@@ -45,6 +45,9 @@ Focus on hacking, not the formatting. Best of luck with your OffSec journey! ❤
 Already have an account? [Login here.](https://labs.sysre.pt)
 <br>
 
+## Your OffSec Report Within Minutes
+![GIF](https://docs.sysreptor.com/images/oscp-reporting.gif)
+
 ### Prefer self-hosting (also free)?
 
 1. [Install](https://docs.sysreptor.com/setup/installation/) SysReptor 
@@ -68,10 +71,6 @@ Missing a template or have questions? Open an [issue or contact us](https://docs
 🛡️ OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH  
 🚀 Fully customizable  
 👌 No local software troubleshooting
-
-
-## Your OffSec Report Within Minutes
-![GIF](https://docs.sysreptor.com/images/oscp-reporting.gif)
 
 ## Offensive Security Report Templates
 ### Penetration Testing
